@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/drawable/gen_shape.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/drawable/ic_undraw_search_re_x5gq.xml" value="0.17263513513513515" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/drawable/movie_bg.xml" value="0.17090301003344482" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/drawable/splash_screen.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/layout/activity_details.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/layout/activity_search.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/layout/single_gen.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/layout/single_row.xml" value="0.13714902807775378" />
+        <entry key="..\:/Users/meena/AndroidStudioProjects/QuadDB/app/src/main/res/menu/bottom_menu.xml" value="0.16216216216216217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
